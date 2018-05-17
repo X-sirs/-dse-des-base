@@ -1,0 +1,26 @@
+{
+  "name": "dse-base",
+  "version": "1.0.0",
+  "description": "公共组件、工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/X-sirs/dse-base.git"
+  },
+  "keywords": [
+    "dse"
+  ],
+  "author": "nss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/X-sirs/dse-base/issues"
+  },
+  "homepage": "https://github.com/X-sirs/dse-base#readme",
+  "devDependencies": {
+    "vue": "^2.5.16",
+    "vux": "^2.9.1"
+  }
+}
