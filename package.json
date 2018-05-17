@@ -1,6 +1,6 @@
 {
   "name": "dse-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "公共组件、工具类",
   "main": "index.js",
   "scripts": {
